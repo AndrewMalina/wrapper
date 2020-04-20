@@ -155,25 +155,6 @@
             <version>2.7.0</version>
         </dependency>
 
-
-        <dependency>
-            <groupId>com.postx.sdk</groupId>
-            <artifactId>common</artifactId>
-            <version>1.0</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.postx.sdk</groupId>
-            <artifactId>daemon</artifactId>
-            <version>1.0</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.postx.sdk</groupId>
-            <artifactId>local</artifactId>
-            <version>1.0</version>
-        </dependency>
-
         <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-io -->
         <dependency>
             <groupId>org.apache.commons</groupId>
