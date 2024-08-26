@@ -22,7 +22,7 @@
         <start-class>test.producer.App</start-class>
         <java.version>1.8</java.version>
         <rest.assured.version>2.3.3</rest.assured.version>
-        <springfox-version>2.7.0</springfox-version>
+        <springfox-version>2.10.0</springfox-version>
         <swagger.plugin.version>2.2.2</swagger.plugin.version>
         <swagger.yaml.file>${basedir}/swagger/swagger.yaml</swagger.yaml.file>
         <maven.resources.plugin.version>3.0.2</maven.resources.plugin.version>
